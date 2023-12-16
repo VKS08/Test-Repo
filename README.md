@@ -7,3 +7,6 @@ This repository is built step by step in the tutorial.
 this for fisrt edit check
 
 test for pull
+
+
+local branch to remote branch PULL
